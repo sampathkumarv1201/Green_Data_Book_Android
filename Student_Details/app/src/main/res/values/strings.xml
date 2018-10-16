@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Student_Details</string>
+    <string name="department_prompt">Select your Department</string>
+
+    <string-array name="department_array">
+        <item>Computer Science and Engineering</item>
+        <item>Information Technology</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Electrical and Instrumentation Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Foot Technology</item>
+        <item>Mechanical Engineering</item>
+        <item>Automobile Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Mechtronix Engineering</item>
+    </string-array>
+
+    <string name="section_prompt">Select your Section</string>
+    <string-array name="section_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string name="bloodgroup_prompt">Select Your BloodGroup</string>
+    <string-array name="bloodgroup_array">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+</resources>
